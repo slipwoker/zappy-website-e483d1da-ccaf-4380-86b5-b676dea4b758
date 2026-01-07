@@ -1,0 +1,57 @@
+# Pang — Generative Engine Optimization Map
+
+> A tourism and outdoor activities business.
+
+---
+
+## Pages
+
+### Home
+https://pang-e483d1da.zappy5.app
+Discover famous places in the world with Pang. Expert tour guides, unforgettable adventures, and popular tourist destinations await. Book your dream tour today!
+
+### Tours
+https://pang-e483d1da.zappy5.app/tours
+Browse our complete collection of tours to famous places in the world. From mountain treks to beach escapes, find your perfect adventure with Pang's expert guides.
+
+### About
+https://pang-e483d1da.zappy5.app/about
+Learn about Pang's mission to connect travelers with famous places in the world through sustainable, authentic tourism experiences led by passionate local guides.
+
+### Contact
+https://pang-e483d1da.zappy5.app/contact
+Contact Pang to book your tour to famous places in the world. Get in touch with our team for personalized travel planning and adventure booking assistance.
+
+## Legal & Policy
+
+### Privacy Policy
+https://pang-e483d1da.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://pang-e483d1da.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://pang-e483d1da.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pang
+Pang is a business in the tourism and outdoor activities industry.
+
+## Target Audience
+tourists
+
+## Industry
+tourism and outdoor activities
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://pang-e483d1da.zappy5.app/sitemap.xml
+- **Robots.txt**: https://pang-e483d1da.zappy5.app/robots.txt

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pang-e483d1da.zappy5.app/sitemap.xml
